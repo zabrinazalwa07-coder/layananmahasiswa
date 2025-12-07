@@ -1,7 +1,7 @@
 # Aplikasi Layanan Mahasiswa
 
 Aplikasi berbasis **PHP & MySQL (XAMPP)** untuk mempermudah mahasiswa mengajukan layanan administrasi dan memudahkan admin dalam mengelola pengajuan.  
-# nama anggota kelompok 4
+# nama anggota kelompok 2
   * zabrina zalwa zalikha ( 7011230110 )
   * dwi wahyuni ( 701230102)
   * ferdinand ali (701230207)
@@ -11,9 +11,10 @@ Aplikasi berbasis **PHP & MySQL (XAMPP)** untuk mempermudah mahasiswa mengajukan
 ### Mahasiswa
 - **Login Mahasiswa**
 - **Ajukan Layanan**  
-  - Buat Kartu Mahasiswa  
-  - Perbaikan Data  
-  - Surat Aktif Kuliah  
+  - pembuatan makalah  
+  - pembuatan ppt  
+  - pembuatan artikel
+  - pembuatan poster
 - **Form Nomor WhatsApp** untuk menerima informasi status pengajuan.
 - **Dashboard Status** pengajuan layanan dengan status: Menunggu, Diproses, Selesai.
 - **Logout** dari sistem.
